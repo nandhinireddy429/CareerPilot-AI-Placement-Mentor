@@ -1,0 +1,82 @@
+{
+    "guest@university.edu": {
+        "name": "Guest Student",
+        "password": "a1693089b9b9249d2c3f265fec59e0d1:25c4f12a7d9654a5a8d775d5c4008d23fd5b882babb55e21459038e0ab7b9633",
+        "target_role": "SDE",
+        "skills": [
+            "Python",
+            "Data Structures",
+            "Algorithms",
+            "SQL",
+            "Git"
+        ],
+        "education": "B.Tech Computer Science, XYZ University, CGPA 8.5",
+        "experience": "Web Development Intern at StartupX - built database REST APIs",
+        "projects": "URL Shortener in Python; Personal Blog Website using FastAPI",
+        "summary": "Engineering student specializing in software engineering, backend databases, and algorithms."
+    },
+    "test_3122@university.edu": {
+        "name": "Test Student",
+        "password": "00955883400b1fa266dc1b1722bddac6:2153507d812c38b7942d17b1f255971988f73431b36679835a826980fadc2e6e",
+        "target_role": "ML Engineer",
+        "skills": [
+            "Python",
+            "SQL",
+            "Git",
+            "Machine Learning",
+            "Statistics"
+        ],
+        "education": "B.Tech Candidate, ABC University",
+        "experience": "Student",
+        "projects": "Placement Projects",
+        "summary": "Aspiring ML Engineer seeking intern and placement opportunities."
+    },
+    "arjunkosana123@gmail.com": {
+        "name": "arjun",
+        "password": "6eb3d799ecbf0f4145df4b66f88b503b:f05041e28b86ff66a23c96b1b1fb2f74db9e9082cf353bb3cb3647a3de44a2d0",
+        "target_role": "SDE",
+        "skills": [
+            "Python",
+            "SQL",
+            "Git",
+            "Data Structures",
+            "Algorithms"
+        ],
+        "education": "B.Tech Candidate, ABC University",
+        "experience": "Student",
+        "projects": "Placement Projects",
+        "summary": "Aspiring SDE seeking intern and placement opportunities."
+    },
+    "test_2079@university.edu": {
+        "name": "Test Student",
+        "password": "b8be9ff8647319dd52e9cd6fa5b48665:0877439fcc605407d8d3cf82c9e97ae1420d4f4ece3d9ecf321ad83bf266684a",
+        "target_role": "ML Engineer",
+        "skills": [
+            "Python",
+            "SQL",
+            "Git",
+            "Machine Learning",
+            "Statistics"
+        ],
+        "education": "B.Tech Candidate, ABC University",
+        "experience": "Student",
+        "projects": "Placement Projects",
+        "summary": "Aspiring ML Engineer seeking intern and placement opportunities."
+    },
+    "test_7089@university.edu": {
+        "name": "Test Student",
+        "password": "9388956e47c2f0ed3c27ffd95f21300d:6ff1a2c14257361bf2995d753e77a5d3a6fc5f08b536929091f36b8a88671fde",
+        "target_role": "ML Engineer",
+        "skills": [
+            "Python",
+            "SQL",
+            "Git",
+            "Machine Learning",
+            "Statistics"
+        ],
+        "education": "B.Tech Candidate, ABC University",
+        "experience": "Student",
+        "projects": "Placement Projects",
+        "summary": "Aspiring ML Engineer seeking intern and placement opportunities."
+    }
+}

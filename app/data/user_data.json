@@ -1,0 +1,657 @@
+{
+    "guest@university.edu": {
+        "coding_solved": [
+            {
+                "problem_id": "arr_easy_1",
+                "difficulty": "Easy",
+                "topic": "Arrays",
+                "timestamp": 1785148216.595063,
+                "score": 100,
+                "solve_time": 45
+            }
+        ],
+        "coding_skipped": [
+            "arr_med_1"
+        ],
+        "coding_bookmarked": [
+            "arr_hard_1"
+        ],
+        "interview_sessions": [
+            {
+                "session_id": "8f7011d8",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785148216.7951875,
+                "score": 60,
+                "answers": [
+                    {
+                        "question": "How would you design a distributed rate limiter that coordinates across multiple servers with minimal lock contention?",
+                        "answer": "I would use a token bucket rate limiting algorithm stored in Redis cluster.",
+                        "score": 60
+                    }
+                ]
+            },
+            {
+                "session_id": "e1147f2f",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785148887.1446075,
+                "score": 60,
+                "answers": [
+                    {
+                        "question": "Describe how you would design a high-throughput feed service at Google to handle peak workloads.",
+                        "answer": "I would use a token bucket rate limiting algorithm stored in Redis cluster.",
+                        "score": 60
+                    }
+                ]
+            },
+            {
+                "session_id": "1e010e7c",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785148887.3670428,
+                "score": 60,
+                "answers": [
+                    {
+                        "question": "Describe how you would design a high-throughput feed service at Google to handle peak workloads.",
+                        "answer": "idk next",
+                        "score": 60
+                    }
+                ]
+            },
+            {
+                "session_id": "a0e961ab",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785148913.4441357,
+                "score": 60,
+                "answers": [
+                    {
+                        "question": "Can you explain the trade-offs of the database caching layer you mentioned?",
+                        "answer": "I would use a token bucket rate limiting algorithm stored in Redis cluster.",
+                        "score": 60
+                    }
+                ]
+            },
+            {
+                "session_id": "e7b4625d",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785148913.4662097,
+                "score": 0,
+                "answers": [
+                    {
+                        "question": "Can you explain the trade-offs of the database caching layer you mentioned?",
+                        "answer": "idk next",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "session_id": "036dfd9f",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785148945.450162,
+                "score": 69,
+                "answers": [
+                    {
+                        "question": "Can you explain the trade-offs of the database caching layer you mentioned?",
+                        "answer": "I would use a token bucket rate limiting algorithm stored in Redis cluster.",
+                        "score": 69
+                    }
+                ]
+            },
+            {
+                "session_id": "df9113f4",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785148945.471485,
+                "score": 0,
+                "answers": [
+                    {
+                        "question": "Can you explain the trade-offs of the database caching layer you mentioned?",
+                        "answer": "idk next",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "session_id": "331e70d6",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785149549.0736575,
+                "score": 69,
+                "answers": [
+                    {
+                        "question": "Explain how Google Search handles autocomplete system suggestions with sub-50ms latency.",
+                        "answer": "I would use a token bucket rate limiting algorithm stored in Redis cluster.",
+                        "score": 69
+                    }
+                ]
+            },
+            {
+                "session_id": "9c283350",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785149549.0980752,
+                "score": 0,
+                "answers": [
+                    {
+                        "question": "Explain how Google Search handles autocomplete system suggestions with sub-50ms latency.",
+                        "answer": "idk next",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "session_id": "c4fc87c3",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785150055.0128682,
+                "score": 69,
+                "answers": [
+                    {
+                        "question": "Describe how memory management works in heap vs stack segments in languages like C++ or Java.",
+                        "answer": "I would use a token bucket rate limiting algorithm stored in Redis cluster.",
+                        "score": 69
+                    }
+                ]
+            },
+            {
+                "session_id": "44c11fff",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785150055.034116,
+                "score": 0,
+                "answers": [
+                    {
+                        "question": "Describe how memory management works in heap vs stack segments in languages like C++ or Java.",
+                        "answer": "idk next",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "session_id": "1de49ffb",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785150323.7617612,
+                "score": 69,
+                "answers": [
+                    {
+                        "question": "Can you explain the trade-offs of the database caching layer you mentioned?",
+                        "answer": "I would use a token bucket rate limiting algorithm stored in Redis cluster.",
+                        "score": 69
+                    }
+                ]
+            },
+            {
+                "session_id": "15387df0",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785150323.7836406,
+                "score": 0,
+                "answers": [
+                    {
+                        "question": "Can you explain the trade-offs of the database caching layer you mentioned?",
+                        "answer": "idk next",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "session_id": "625aedea",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785151781.9306042,
+                "score": 69,
+                "answers": [
+                    {
+                        "question": "Describe how memory management works in heap vs stack segments in languages like C++ or Java.",
+                        "answer": "I would use a token bucket rate limiting algorithm stored in Redis cluster.",
+                        "score": 69
+                    }
+                ]
+            },
+            {
+                "session_id": "f6638d42",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785151781.956797,
+                "score": 0,
+                "answers": [
+                    {
+                        "question": "Describe how memory management works in heap vs stack segments in languages like C++ or Java.",
+                        "answer": "idk next",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "session_id": "197bf80e",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785151952.1150782,
+                "score": 69,
+                "answers": [
+                    {
+                        "question": "Given your previous response, let's consider a scenario where a C++ application experiences frequent `std::bad_alloc` exceptions. Without knowing the specific code, what are the top three most likely underlying causes you would investigate first, and why?",
+                        "answer": "I would use a token bucket rate limiting algorithm stored in Redis cluster.",
+                        "score": 69
+                    }
+                ]
+            },
+            {
+                "session_id": "0e2c3a60",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785151952.148761,
+                "score": 0,
+                "answers": [
+                    {
+                        "question": "Given your previous response, let's consider a scenario where a C++ application experiences frequent `std::bad_alloc` exceptions. Without knowing the specific code, what are the top three most likely underlying causes you would investigate first, and why?",
+                        "answer": "idk next",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "session_id": "aef8dd15",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785153173.2770588,
+                "score": 69,
+                "answers": [
+                    {
+                        "question": "You are building a distributed system that processes a continuous stream of events. Each event has a unique ID and a timestamp. Due to network latency and processing variations, events might arrive out of order. Your task is to implement a 'reordering buffer' that ensures events are processed in strictly increasing order of their timestamps. The buffer should have a maximum capacity `K`. If an event arrives and its timestamp is `T`, and the buffer already contains events up to timestamp `T_prev` (meaning all events with timestamps less than or equal to `T_prev` have been processed), then the event `(ID, T)` should be added to the buffer. If adding the event causes the buffer to exceed `K` events, or if the event's timestamp `T` is significantly older than `T_prev` (e.g., `T < T_prev - some_threshold`), the system should log a warning and potentially discard the event. Design the data structures and algorithms for this reordering buffer, including how you would handle the 'processing' of events (i.e., when to release a batch of ordered events) and the eviction strategy if the buffer reaches its capacity `K` without being able to release events.",
+                        "answer": "I would use a token bucket rate limiting algorithm stored in Redis cluster.",
+                        "score": 69
+                    }
+                ]
+            },
+            {
+                "session_id": "34170922",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785153173.3117301,
+                "score": 0,
+                "answers": [
+                    {
+                        "question": "You are building a distributed system that processes a continuous stream of events. Each event has a unique ID and a timestamp. Due to network latency and processing variations, events might arrive out of order. Your task is to implement a 'reordering buffer' that ensures events are processed in strictly increasing order of their timestamps. The buffer should have a maximum capacity `K`. If an event arrives and its timestamp is `T`, and the buffer already contains events up to timestamp `T_prev` (meaning all events with timestamps less than or equal to `T_prev` have been processed), then the event `(ID, T)` should be added to the buffer. If adding the event causes the buffer to exceed `K` events, or if the event's timestamp `T` is significantly older than `T_prev` (e.g., `T < T_prev - some_threshold`), the system should log a warning and potentially discard the event. Design the data structures and algorithms for this reordering buffer, including how you would handle the 'processing' of events (i.e., when to release a batch of ordered events) and the eviction strategy if the buffer reaches its capacity `K` without being able to release events.",
+                        "answer": "idk next",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "session_id": "cc10e5df",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785154148.7095726,
+                "score": 69,
+                "answers": [
+                    {
+                        "question": "Describe how memory management works in heap vs stack segments in languages like C++ or Java.",
+                        "answer": "I would use a token bucket rate limiting algorithm stored in Redis cluster.",
+                        "score": 69
+                    }
+                ]
+            },
+            {
+                "session_id": "c551f94a",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785154148.7349966,
+                "score": 0,
+                "answers": [
+                    {
+                        "question": "Describe how memory management works in heap vs stack segments in languages like C++ or Java.",
+                        "answer": "idk next",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "session_id": "6d1301b2",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785219352.2106183,
+                "score": 69,
+                "answers": [
+                    {
+                        "question": "What is the difference between TCP and UDP, and when would you use UDP?",
+                        "answer": "I would use a token bucket rate limiting algorithm stored in Redis cluster.",
+                        "score": 69
+                    }
+                ]
+            },
+            {
+                "session_id": "a5cc8157",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Technical",
+                "timestamp": 1785219352.2372005,
+                "score": 0,
+                "answers": [
+                    {
+                        "question": "What is the difference between TCP and UDP, and when would you use UDP?",
+                        "answer": "idk next",
+                        "score": 0
+                    }
+                ]
+            }
+        ],
+        "login_history": [
+            1785148215.9006958,
+            1785148886.0890586,
+            1785148912.7204418,
+            1785148944.728313,
+            1785149548.2260263,
+            1785150053.9844968,
+            1785150322.7265499,
+            1785151780.4732225,
+            1785151870.3219833,
+            1785151934.038548,
+            1785151946.9860601,
+            1785152354.6842217,
+            1785152925.0765457,
+            1785153162.2633681,
+            1785154147.5648084,
+            1785219339.142254
+        ],
+        "streaks": {
+            "login": {
+                "current": 11,
+                "longest": 11,
+                "last_active": 1785219339.142254
+            },
+            "coding": {
+                "current": 11,
+                "longest": 11,
+                "last_active": 1785219351.0769098
+            },
+            "interview": {
+                "current": 10,
+                "longest": 10,
+                "last_active": 1785219352.2372005
+            },
+            "learning": {
+                "current": 11,
+                "longest": 11,
+                "last_active": 1785219352.2372005
+            }
+        },
+        "learning_hours": 11.64,
+        "rating": 1508,
+        "last_active": 1785219352.2372005
+    },
+    "arjunkosana123@gmail.com": {
+        "coding_solved": [],
+        "coding_skipped": [],
+        "coding_bookmarked": [],
+        "interview_sessions": [
+            {
+                "session_id": "c501e47b",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Algorithms",
+                "timestamp": 1785148322.4537477,
+                "score": 60,
+                "answers": [
+                    {
+                        "question": "How would you design a distributed rate limiter that coordinates across multiple servers with minimal lock contention?",
+                        "answer": "idk next",
+                        "score": 60
+                    }
+                ]
+            },
+            {
+                "session_id": "af8a0332",
+                "company": "Google",
+                "role": "SDE",
+                "type": "System Architecture",
+                "timestamp": 1785149230.549074,
+                "score": 0,
+                "answers": [
+                    {
+                        "question": "Describe how you would design a high-throughput feed service at Google to handle peak workloads.",
+                        "answer": "idk next",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "session_id": "ec1fe009",
+                "company": "Google",
+                "role": "SDE",
+                "type": "System Architecture",
+                "timestamp": 1785149269.0432518,
+                "score": 85,
+                "answers": [
+                    {
+                        "question": "Describe how you would design a high-throughput feed service at Google to handle peak workloads.",
+                        "answer": "Designing a high-throughput feed service to handle peak workloads requires a hybrid fan-out architecture, distributed message brokers, multi-tier caching, and stateless microservices. Key pillars include push/pull hybrid processing, horizontal scaling, and resilient data storage.",
+                        "score": 85
+                    }
+                ]
+            },
+            {
+                "session_id": "dc8e6571",
+                "company": "Google",
+                "role": "SDE",
+                "type": "System Architecture",
+                "timestamp": 1785149282.8441987,
+                "score": 0,
+                "answers": [
+                    {
+                        "question": "Describe how you would design a high-throughput feed service at Google to handle peak workloads.",
+                        "answer": "idk next",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "session_id": "d0c3765c",
+                "company": "Google",
+                "role": "SDE",
+                "type": "Algorithms",
+                "timestamp": 1785149767.274831,
+                "score": 0,
+                "answers": [
+                    {
+                        "question": "Explain how Google Search handles autocomplete system suggestions with sub-50ms latency.",
+                        "answer": "idk next",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "session_id": "0cf94065",
+                "company": "Google",
+                "role": "SDE",
+                "type": "technical",
+                "timestamp": 1785149790.8310962,
+                "score": 82,
+                "answers": [
+                    {
+                        "question": "How does consistent hashing work, and when should you use it?",
+                        "answer": "Consistent hashing is a smart way to share data across multiple servers. It uses a virtual hash ring, clockwise key assignment, and virtual nodes to make scaling easy.",
+                        "score": 82
+                    }
+                ]
+            },
+            {
+                "session_id": "aea9de98",
+                "company": "Google",
+                "role": "SDE",
+                "type": "System Design Follow-up",
+                "timestamp": 1785149812.3105671,
+                "score": 85,
+                "answers": [
+                    {
+                        "question": "Can you explain the trade-offs of the database caching layer you mentioned?",
+                        "answer": "A database caching layer introduces trade-offs between speed, complexity, and data freshness. While it speeds up reads and lowers database load, it forces the system to manage stale data, extra infrastructure, and potential data loss.",
+                        "score": 85
+                    }
+                ]
+            },
+            {
+                "session_id": "8e86cfbe",
+                "company": "Google",
+                "role": "SDE",
+                "type": "System Design Follow-up",
+                "timestamp": 1785149838.6467226,
+                "score": 69,
+                "answers": [
+                    {
+                        "question": "Can you explain the trade-offs of the database caching layer you mentioned?",
+                        "answer": "You have perfectly captured the core engineering dilemma of caching. Adding a cache means trading absolute data consistency for system performance and scalability.",
+                        "score": 69
+                    }
+                ]
+            },
+            {
+                "session_id": "300232b1",
+                "company": "Google",
+                "role": "ML Engineer",
+                "type": "technical",
+                "timestamp": 1785152021.2088215,
+                "score": 75,
+                "answers": [
+                    {
+                        "question": "Explain the differences between training an LLM model from scratch vs parameter-efficient fine-tuning (PEFT).",
+                        "answer": "The core difference is that training from scratch initializes a model with random weights and requires learning all core language patterns, while Parameter-Efficient Fine-Tuning (PEFT) freezes an already existing, highly capable model and updates only a fraction of its parameters (usually 1% to 6%) for a specific task.",
+                        "score": 75
+                    }
+                ]
+            },
+            {
+                "session_id": "6ffbe3a3",
+                "company": "Google",
+                "role": "ML Engineer",
+                "type": "System Design Follow-up",
+                "timestamp": 1785152046.5161324,
+                "score": 80,
+                "answers": [
+                    {
+                        "question": "Can you explain the trade-offs of the database caching layer you mentioned?",
+                        "answer": "A database caching layer speeds up read speeds and reduces database strain, but it introduces key trade-offs: data staleness risks, higher memory costs, and added operational complexity.",
+                        "score": 80
+                    }
+                ]
+            },
+            {
+                "session_id": "af904485",
+                "company": "Google",
+                "role": "SDE",
+                "type": "technical",
+                "timestamp": 1785219748.36041,
+                "score": 0,
+                "answers": [
+                    {
+                        "question": "Explain the difference between a process and a thread, and how virtual memory stacks are handled.",
+                        "answer": "idk next",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "session_id": "08c5ea9a",
+                "company": "Google",
+                "role": "SDE",
+                "type": "System Design Follow-up",
+                "timestamp": 1785219759.9561443,
+                "score": 0,
+                "answers": [
+                    {
+                        "question": "Can you explain the trade-offs of the database caching layer you mentioned?",
+                        "answer": "next",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "session_id": "a65a6310",
+                "company": "TCS",
+                "role": "SDE",
+                "type": "Java & OOPs",
+                "timestamp": 1785220073.0787048,
+                "score": 72,
+                "answers": [
+                    {
+                        "question": "Explain the four core principles of Object-Oriented Programming and give a real-life coding example of Polymorphism.",
+                        "answer": "The four core principles of Object-Oriented Programming (OOP) are Encapsulation, Abstraction, Inheritance, and Polymorphism. Together, these concepts allow developers to structure code to be modular, flexible, and reusable.",
+                        "score": 72
+                    }
+                ]
+            }
+        ],
+        "login_history": [
+            1785148263.0908985,
+            1785149170.2705176,
+            1785149624.2119303,
+            1785150102.2304568,
+            1785151968.5821075,
+            1785153284.2735217,
+            1785153382.460182,
+            1785153382.4638343,
+            1785154158.9844277,
+            1785219370.2548091,
+            1785219370.3780034,
+            1785219370.4133914,
+            1785219378.3575835,
+            1785219718.3940098,
+            1785219814.4533734,
+            1785219814.4572132,
+            1785219878.1885464,
+            1785220596.0007384
+        ],
+        "streaks": {
+            "login": {
+                "current": 10,
+                "longest": 10,
+                "last_active": 1785220596.0007384
+            },
+            "coding": {
+                "current": 0,
+                "longest": 0,
+                "last_active": 0.0
+            },
+            "interview": {
+                "current": 6,
+                "longest": 6,
+                "last_active": 1785220073.0787048
+            },
+            "learning": {
+                "current": 6,
+                "longest": 6,
+                "last_active": 1785220073.0787048
+            }
+        },
+        "learning_hours": 6.5,
+        "rating": 1500,
+        "last_active": 1785220596.0007384
+    }
+}

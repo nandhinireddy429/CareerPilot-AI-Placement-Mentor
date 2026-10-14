@@ -1,0 +1,1177 @@
+{
+    "guest@university.edu": [
+        {
+            "id": "d1de16c8",
+            "timestamp": "2026-07-15 16:23:45",
+            "target_role": "SDE",
+            "overall_score": 80,
+            "resume_strength": "Strong",
+            "has_jd": true,
+            "report": {
+                "overall_score": 80,
+                "resume_strength": "Strong",
+                "formatting_score": 88,
+                "grammar_score": 80,
+                "readability_score": 30,
+                "completeness_score": 80,
+                "contact_info": {
+                    "has_email": true,
+                    "has_phone": false,
+                    "has_linkedin": false,
+                    "has_github": false,
+                    "found_email": "aditi@univ.edu",
+                    "found_phone": null
+                },
+                "completeness": {
+                    "has_education": true,
+                    "has_experience": true,
+                    "has_projects": true,
+                    "has_skills": true,
+                    "has_certifications": false,
+                    "completeness_score": 80
+                },
+                "jd_match": {
+                    "match_percentage": 100,
+                    "matched_keywords": [
+                        "Algorithms",
+                        "Git",
+                        "SQL",
+                        "Python"
+                    ],
+                    "missing_keywords": [],
+                    "keyword_density": 1.8,
+                    "skill_match_score": 100,
+                    "experience_match_score": 85,
+                    "project_quality_score": 75,
+                    "matched_skills": [
+                        "Algorithms",
+                        "Git",
+                        "SQL",
+                        "Python"
+                    ],
+                    "partially_matched_skills": [],
+                    "missing_skills": [],
+                    "explanations": {
+                        "ats_match": "Evaluated at 100% compatibility based on a TF-IDF text similarity of 15% and semantic alignment.",
+                        "skill_match": "Evaluated at 100% based on matching 4 skills directly and 0 skills partially out of 4 target skills.",
+                        "keyword_match": "Evaluated at 100% based on matching 4 keywords (both direct and related clusters).",
+                        "experience_match": "Evaluated at 85% based on experience section verification and target role requirements comparison.",
+                        "project_match": "Evaluated at 75% based on project completeness, descriptions, and presence of impact metric clauses."
+                    }
+                },
+                "ai_suggestions": [
+                    {
+                        "category": "Resume Improvement Tips",
+                        "suggestions": [
+                            "Add a phone number and LinkedIn profile URL to your contact details for easier recruiter access.",
+                            "Expand on your education details, including university name, graduation date, and any relevant coursework or GPA.",
+                            "Include a dedicated 'Skills' section with both technical and soft skills relevant to SDE roles."
+                        ]
+                    },
+                    {
+                        "category": "Missing Technical Skills",
+                        "suggestions": [
+                            "Acquire knowledge in cloud platforms like AWS or Azure, as they are frequently used in SDE roles.",
+                            "Learn about data structures and object-oriented programming (OOP) principles to strengthen your foundational SDE skills."
+                        ]
+                    },
+                    {
+                        "category": "Better Project Descriptions",
+                        "suggestions": [
+                            "For 'URL Shortener', rewrite using STAR: 'Developed a URL shortening service using [Technologies used] to efficiently convert long URLs into concise, shareable links, resulting in [Quantifiable outcome, e.g., improved user experience or reduced character count].'"
+                        ]
+                    },
+                    {
+                        "category": "Better Achievement Statements",
+                        "suggestions": [
+                            "Instead of 'Built apps,' try: 'Developed 3 mobile applications using Python, improving user engagement by 15% through intuitive UI/UX design.'",
+                            "Instead of 'URL Shortener,' try: 'Engineered a URL Shortener project, reducing URL length by an average of 70% and handling over 100 requests per minute.'"
+                        ]
+                    },
+                    {
+                        "category": "Better Action Verbs",
+                        "suggestions": [
+                            "Developed",
+                            "Engineered",
+                            "Implemented",
+                            "Optimized"
+                        ]
+                    },
+                    {
+                        "category": "Resume Summary Improvements",
+                        "suggestions": [
+                            "Highly motivated B.Tech CSE graduate with foundational knowledge in Python, SQL, Git, and Algorithms, seeking to leverage strong coding skills in a challenging Software Development Engineer role.",
+                            "A results-oriented individual with practical experience in application development and project execution, eager to contribute to innovative software solutions and grow within a dynamic engineering team."
+                        ]
+                    }
+                ],
+                "skill_gap": {
+                    "acquired_skills": [
+                        "Algorithms",
+                        "Git",
+                        "SQL"
+                    ],
+                    "missing_skills": [
+                        "Data Structures",
+                        "OOP",
+                        "System Design",
+                        "REST APIs",
+                        "Problem Solving"
+                    ],
+                    "recommended_skills": [
+                        "Computer Science Foundations",
+                        "Data Structures",
+                        "OOP",
+                        "System Design"
+                    ],
+                    "learning_priority": [
+                        {
+                            "skill": "Data Structures",
+                            "priority": "High"
+                        },
+                        {
+                            "skill": "OOP",
+                            "priority": "High"
+                        },
+                        {
+                            "skill": "System Design",
+                            "priority": "Medium"
+                        },
+                        {
+                            "skill": "REST APIs",
+                            "priority": "Medium"
+                        },
+                        {
+                            "skill": "Problem Solving",
+                            "priority": "Low"
+                        }
+                    ],
+                    "suggested_courses": [
+                        {
+                            "course_name": "Technical Placement Interview Prep",
+                            "platform": "CareerPilot Portal",
+                            "url": null
+                        },
+                        {
+                            "course_name": "Software Engineering Bootcamp Foundations",
+                            "platform": "Coursera",
+                            "url": null
+                        }
+                    ],
+                    "company_readiness": [
+                        {
+                            "company": "Google",
+                            "readiness_score": 39,
+                            "status": "Critical Skill Gaps"
+                        },
+                        {
+                            "company": "Amazon",
+                            "readiness_score": 64,
+                            "status": "Requires Skill Bridging"
+                        },
+                        {
+                            "company": "Microsoft",
+                            "readiness_score": 39,
+                            "status": "Critical Skill Gaps"
+                        },
+                        {
+                            "company": "TCS",
+                            "readiness_score": 84,
+                            "status": "Ready to Apply"
+                        },
+                        {
+                            "company": "Wipro",
+                            "readiness_score": 84,
+                            "status": "Ready to Apply"
+                        },
+                        {
+                            "company": "Infosys",
+                            "readiness_score": 64,
+                            "status": "Requires Skill Bridging"
+                        }
+                    ]
+                },
+                "raw_text": "NAME: Aditi Sharma\nEMAIL: aditi@univ.edu\nROLE: SDE\nSUMMARY:\nExperienced coder.\nEDUCATION:\nB.Tech CSE\nEXPERIENCE:\nBuilt apps.\nPROJECTS:\nURL Shortener\nSKILLS:\nPython, SQL, Git, Algorithms"
+            }
+        },
+        {
+            "id": "b8336499",
+            "timestamp": "2026-07-15 16:14:59",
+            "target_role": "SDE",
+            "overall_score": 76,
+            "resume_strength": "Average",
+            "has_jd": true,
+            "report": {
+                "overall_score": 76,
+                "resume_strength": "Average",
+                "formatting_score": 88,
+                "grammar_score": 80,
+                "readability_score": 30,
+                "completeness_score": 80,
+                "contact_info": {
+                    "has_email": true,
+                    "has_phone": false,
+                    "has_linkedin": false,
+                    "has_github": false,
+                    "found_email": "aditi@univ.edu",
+                    "found_phone": null
+                },
+                "completeness": {
+                    "has_education": true,
+                    "has_experience": true,
+                    "has_projects": true,
+                    "has_skills": true,
+                    "has_certifications": false,
+                    "completeness_score": 80
+                },
+                "jd_match": {
+                    "match_percentage": 100,
+                    "matched_keywords": [
+                        "Algorithms",
+                        "Git",
+                        "SQL"
+                    ],
+                    "missing_keywords": [],
+                    "keyword_density": 12.5,
+                    "skill_match_score": 75,
+                    "experience_match_score": 80,
+                    "project_quality_score": 40
+                },
+                "ai_suggestions": [
+                    {
+                        "category": "Resume Improvement Tips",
+                        "suggestions": [
+                            "Add your phone number, LinkedIn profile, and GitHub repository links to your contact information for easy access by recruiters.",
+                            "Expand on your education details, including the university name, graduation date, and any relevant coursework or GPA.",
+                            "Include a dedicated 'Skills' section with both technical and soft skills, categorized for clarity."
+                        ]
+                    },
+                    {
+                        "category": "Missing Technical Skills",
+                        "suggestions": [
+                            "Familiarity with cloud platforms (e.g., AWS, Azure, GCP) is highly valued for SDE roles.",
+                            "Knowledge of data structures is fundamental for SDE positions and often assessed in technical interviews."
+                        ]
+                    },
+                    {
+                        "category": "Better Project Descriptions",
+                        "suggestions": [
+                            "For 'URL Shortener', rewrite using STAR: 'Developed a URL shortening service using [specific technologies, e.g., Python, Flask, Redis] to efficiently convert long URLs into concise, trackable links, resulting in [quantifiable outcome, e.g., improved user experience, reduced character count by X%].'"
+                        ]
+                    },
+                    {
+                        "category": "Better Achievement Statements",
+                        "suggestions": [
+                            "Developed and deployed a [type of app] that improved [specific metric] by X% for [target users/company].",
+                            "Optimized existing codebase, reducing processing time by Y% and enhancing system efficiency."
+                        ]
+                    },
+                    {
+                        "category": "Better Action Verbs",
+                        "suggestions": [
+                            "Developed",
+                            "Implemented",
+                            "Designed",
+                            "Optimized"
+                        ]
+                    },
+                    {
+                        "category": "Resume Summary Improvements",
+                        "suggestions": [
+                            "Highly motivated Software Development Engineer with a strong foundation in Python, SQL, Git, and Algorithms, eager to contribute to innovative projects.",
+                            "A results-oriented B.Tech CSE graduate with practical experience in application development, seeking to leverage technical skills in a challenging SDE role."
+                        ]
+                    }
+                ],
+                "skill_gap": {
+                    "acquired_skills": [
+                        "Algorithms",
+                        "Git",
+                        "SQL"
+                    ],
+                    "missing_skills": [
+                        "Data Structures",
+                        "OOP",
+                        "System Design",
+                        "REST APIs",
+                        "Problem Solving"
+                    ],
+                    "recommended_skills": [
+                        "Computer Science Foundations",
+                        "Data Structures",
+                        "OOP",
+                        "System Design"
+                    ],
+                    "learning_priority": [
+                        {
+                            "skill": "Data Structures",
+                            "priority": "High"
+                        },
+                        {
+                            "skill": "OOP",
+                            "priority": "High"
+                        },
+                        {
+                            "skill": "System Design",
+                            "priority": "Medium"
+                        },
+                        {
+                            "skill": "REST APIs",
+                            "priority": "Medium"
+                        },
+                        {
+                            "skill": "Problem Solving",
+                            "priority": "Low"
+                        }
+                    ],
+                    "suggested_courses": [
+                        {
+                            "course_name": "Technical Placement Interview Prep",
+                            "platform": "CareerPilot Portal",
+                            "url": null
+                        },
+                        {
+                            "course_name": "Software Engineering Bootcamp Foundations",
+                            "platform": "Coursera",
+                            "url": null
+                        }
+                    ],
+                    "company_readiness": [
+                        {
+                            "company": "Google",
+                            "readiness_score": 39,
+                            "status": "Critical Skill Gaps"
+                        },
+                        {
+                            "company": "Amazon",
+                            "readiness_score": 64,
+                            "status": "Requires Skill Bridging"
+                        },
+                        {
+                            "company": "Microsoft",
+                            "readiness_score": 39,
+                            "status": "Critical Skill Gaps"
+                        },
+                        {
+                            "company": "TCS",
+                            "readiness_score": 84,
+                            "status": "Ready to Apply"
+                        },
+                        {
+                            "company": "Wipro",
+                            "readiness_score": 84,
+                            "status": "Ready to Apply"
+                        },
+                        {
+                            "company": "Infosys",
+                            "readiness_score": 64,
+                            "status": "Requires Skill Bridging"
+                        }
+                    ]
+                },
+                "raw_text": "NAME: Aditi Sharma\nEMAIL: aditi@univ.edu\nROLE: SDE\nSUMMARY:\nExperienced coder.\nEDUCATION:\nB.Tech CSE\nEXPERIENCE:\nBuilt apps.\nPROJECTS:\nURL Shortener\nSKILLS:\nPython, SQL, Git, Algorithms"
+            }
+        }
+    ],
+    "arjunkosana123@gmail.com": [
+        {
+            "id": "97660d2a",
+            "timestamp": "2026-07-28 11:55:54",
+            "target_role": "SDE",
+            "overall_score": 85,
+            "resume_strength": "Strong",
+            "has_jd": true,
+            "report": {
+                "overall_score": 85,
+                "resume_strength": "Strong",
+                "formatting_score": 100,
+                "grammar_score": 100,
+                "readability_score": 60,
+                "completeness_score": 100,
+                "contact_info": {
+                    "has_email": true,
+                    "has_phone": true,
+                    "has_linkedin": true,
+                    "has_github": true,
+                    "found_email": "yashwanthsai4005@gmail.com",
+                    "found_phone": "+91 9381400632"
+                },
+                "completeness": {
+                    "has_education": true,
+                    "has_experience": true,
+                    "has_projects": true,
+                    "has_skills": true,
+                    "has_certifications": true,
+                    "completeness_score": 100
+                },
+                "jd_match": {
+                    "match_percentage": 100,
+                    "matched_keywords": [
+                        "Git",
+                        "SQL",
+                        "REST APIs (via Python)"
+                    ],
+                    "missing_keywords": [
+                        "Data Structures",
+                        "Algorithms",
+                        "OOP",
+                        "System Design",
+                        "Problem Solving"
+                    ],
+                    "keyword_density": 1.9,
+                    "skill_match_score": 32,
+                    "experience_match_score": 85,
+                    "project_quality_score": 90,
+                    "matched_skills": [
+                        "Git",
+                        "SQL"
+                    ],
+                    "partially_matched_skills": [
+                        {
+                            "jd_skill": "REST APIs",
+                            "matched_with": "Python",
+                            "reason": "Required 'REST APIs' is semantically related to 'Python' listed in your resume."
+                        }
+                    ],
+                    "missing_skills": [
+                        "Data Structures",
+                        "Algorithms",
+                        "OOP",
+                        "System Design",
+                        "Problem Solving"
+                    ],
+                    "explanations": {
+                        "ats_match": "Evaluated at 100% compatibility based on a TF-IDF text similarity of 16% and semantic alignment.",
+                        "skill_match": "Evaluated at 32% based on matching 2 skills directly and 1 skills partially out of 8 target skills.",
+                        "keyword_match": "Evaluated at 37% based on matching 3 keywords (both direct and related clusters).",
+                        "experience_match": "Evaluated at 85% based on experience section verification and target role requirements comparison.",
+                        "project_match": "Evaluated at 90% based on project completeness, descriptions, and presence of impact metric clauses."
+                    }
+                },
+                "ai_suggestions": [
+                    {
+                        "category": "Resume Improvement Tips",
+                        "suggestions": [
+                            "Format sections clearly using capital headers",
+                            "Ensure contact details are located at the very top"
+                        ]
+                    },
+                    {
+                        "category": "Missing Technical Skills",
+                        "suggestions": [
+                            "Acquire missing SDE taxonomy certifications",
+                            "Add cloud/devops containerization (Docker, AWS) items"
+                        ]
+                    },
+                    {
+                        "category": "Better Project Descriptions",
+                        "suggestions": [
+                            "Rewrite: 'Built a backend web API using Python' -> 'Engineered a high-throughput REST API using Python and FastAPI, reducing query latency by 35% using Redis caching.'"
+                        ]
+                    },
+                    {
+                        "category": "Better Achievement Statements",
+                        "suggestions": [
+                            "Refactored relational SQL database schemas, reducing index lookups by 22%.",
+                            "Collaborated in a team of 4 to design responsive user interfaces, scaling traffic by 40%."
+                        ]
+                    },
+                    {
+                        "category": "Better Action Verbs",
+                        "suggestions": [
+                            "Spearheaded",
+                            "Architected",
+                            "Deployed",
+                            "Optimized"
+                        ]
+                    },
+                    {
+                        "category": "Resume Summary Improvements",
+                        "suggestions": [
+                            "Result-driven engineering student specializing in target-role guidelines, technical algorithms, and scalable web solutions."
+                        ]
+                    }
+                ],
+                "skill_gap": {
+                    "acquired_skills": [
+                        "Git",
+                        "SQL"
+                    ],
+                    "missing_skills": [
+                        "Data Structures",
+                        "Algorithms",
+                        "OOP",
+                        "System Design",
+                        "REST APIs",
+                        "Problem Solving"
+                    ],
+                    "recommended_skills": [
+                        "Computer Science Foundations",
+                        "Data Structures",
+                        "Algorithms",
+                        "OOP"
+                    ],
+                    "learning_priority": [
+                        {
+                            "skill": "Data Structures",
+                            "priority": "High"
+                        },
+                        {
+                            "skill": "Algorithms",
+                            "priority": "High"
+                        },
+                        {
+                            "skill": "OOP",
+                            "priority": "Medium"
+                        },
+                        {
+                            "skill": "System Design",
+                            "priority": "Medium"
+                        },
+                        {
+                            "skill": "REST APIs",
+                            "priority": "Low"
+                        },
+                        {
+                            "skill": "Problem Solving",
+                            "priority": "Low"
+                        }
+                    ],
+                    "suggested_courses": [
+                        {
+                            "course_name": "Algorithms Specialization",
+                            "platform": "Coursera (Stanford)",
+                            "url": "https://www.coursera.org/specializations/algorithms"
+                        }
+                    ],
+                    "company_readiness": [
+                        {
+                            "company": "Google",
+                            "readiness_score": 31,
+                            "status": "Critical Skill Gaps"
+                        },
+                        {
+                            "company": "Amazon",
+                            "readiness_score": 56,
+                            "status": "Requires Skill Bridging"
+                        },
+                        {
+                            "company": "Microsoft",
+                            "readiness_score": 31,
+                            "status": "Critical Skill Gaps"
+                        },
+                        {
+                            "company": "TCS",
+                            "readiness_score": 76,
+                            "status": "Requires Skill Bridging"
+                        },
+                        {
+                            "company": "Wipro",
+                            "readiness_score": 76,
+                            "status": "Requires Skill Bridging"
+                        },
+                        {
+                            "company": "Infosys",
+                            "readiness_score": 56,
+                            "status": "Requires Skill Bridging"
+                        }
+                    ]
+                },
+                "raw_text": "KOSANA YASWANTH SAI\nOngole, Andhra Pradesh, India  |  +91 9381400632  |  yashwanthsai4005@gmail.com  |  linkedin.com/in/yaswanth-sai-kosana  |  github.com/yaswanthsai4005\nAI ENGINEER INTERN | MACHINE LEARNING | COMPUTER VISION | AGENTIC AI SYSTEMS\nPROFESSIONAL SUMMARY\nAI/ML Engineering student (B.Tech Computer Science, CT University, 2027) with hands-on experience building production-grade computer vision systems and ML pipelines, including real-time CNN-based surveillance models built during an internship at Brainovision Solutions. Skilled across the full ML lifecycle: preprocessing, model training, transfer learning, and deployment, with measurable results including sub-500ms inference latency, 87%+ classification accuracy, and 30-40% efficiency gains through automation. Seeking an AI Engineer internship to apply strong Python, deep learning, and computer vision skills in a fast-paced, product-focused environment.\nTECHNICAL SKILLS\nProgramming Languages: Python, SQL, HTML, CSS\nMachine Learning & AI: Machine Learning, Deep Learning, Convolutional Neural Networks (CNN), Computer Vision, Transfer Learning, Generative AI, Large Language Models (LLM)\nFrameworks & Libraries: PyTorch, OpenCV, NumPy, Pandas, scikit-learn\nTools & Platforms: Git, GitHub, Linux, Jupyter Notebook, VS Code\nEXPERIENCE\nAI Intern — Brainovision Solutions India Pvt Ltd\tMay 2025 - Jul 2025\nHyderabad, India\nEngineered real-time computer vision pipelines in Python and OpenCV to process live surveillance feeds, delivering 3+ production-ready monitoring modules during the internship.\nDesigned and trained CNN-based classification models for anomaly detection, achieving sub-500ms inference latency on standard hardware, enabling practical real-time deployment.\nCo-developed an automated alert generation module integrated into a public safety AI system, reducing manual review overhead by an estimated 40%.\nPROJECTS\nPublic Safety Alert System\tPython, OpenCV, CNN, PyTorch\nBuilt an AI surveillance system that classifies suspicious behaviors from live video feeds using a custom CNN architecture trained on labelled multi-frame sequences.\nDesigned an end-to-end OpenCV preprocessing pipeline (frame sampling, normalization, augmentation) enabling real-time inference at 30+ FPS on a standard GPU.\nImplemented threshold-driven automated alerts triggered at confidence scores above 0.85, reducing false-positive rate by approximately 30% compared to a naive baseline, validated on a held-out test set.\nDeepfake Detection System\tDeep Learning, Python, PyTorch\nDeveloped a binary deep learning classifier to distinguish AI-generated or manipulated media from authentic content, achieving 87%+ validation accuracy on a 10,000-sample dataset.\nApplied transfer learning with fine-tuning on a pre-trained CNN backbone; optimized the classification head via cross-entropy loss, improving F1-score by 12% over the untransferred baseline.\nGenerative AI Product Suite — NxtWave Capstone\tGenerative AI, LLM APIs\nDeveloped 5+ digital products and automation workflows by integrating 10+ generative AI tools (ChatGPT API, Microsoft Copilot, Gamma AI), delivering rapid-prototype solutions end-to-end.\nBuilt automated branding-asset and presentation pipelines that reduced manual content production time by approximately 50%, demonstrated through structured NxtWave curriculum milestones.\nCERTIFICATIONS\nIBM Python for Data Science\nNxtWave — Generative AI & AI Tools\nEDUCATION\nB.Tech, Computer Science — CT University, Ludhiana\t2023 - 2027\nCGPA: 7.9\nIntermediate — Narayana Junior College\t2023\nPercentage: 79.4%\nLANGUAGES: English (Fluent)  |  Telugu (Fluent)  |  Hindi (Conversational)"
+            }
+        },
+        {
+            "id": "209b4940",
+            "timestamp": "2026-07-22 16:51:09",
+            "target_role": "SDE",
+            "overall_score": 85,
+            "resume_strength": "Strong",
+            "has_jd": true,
+            "report": {
+                "overall_score": 85,
+                "resume_strength": "Strong",
+                "formatting_score": 100,
+                "grammar_score": 100,
+                "readability_score": 60,
+                "completeness_score": 100,
+                "contact_info": {
+                    "has_email": true,
+                    "has_phone": true,
+                    "has_linkedin": true,
+                    "has_github": true,
+                    "found_email": "yashwanthsai4005@gmail.com",
+                    "found_phone": "+91 9381400632"
+                },
+                "completeness": {
+                    "has_education": true,
+                    "has_experience": true,
+                    "has_projects": true,
+                    "has_skills": true,
+                    "has_certifications": true,
+                    "completeness_score": 100
+                },
+                "jd_match": {
+                    "match_percentage": 100,
+                    "matched_keywords": [
+                        "Git",
+                        "SQL",
+                        "REST APIs (via Python)"
+                    ],
+                    "missing_keywords": [
+                        "Data Structures",
+                        "Algorithms",
+                        "OOP",
+                        "System Design",
+                        "Problem Solving"
+                    ],
+                    "keyword_density": 0.0,
+                    "skill_match_score": 32,
+                    "experience_match_score": 85,
+                    "project_quality_score": 90,
+                    "matched_skills": [
+                        "Git",
+                        "SQL"
+                    ],
+                    "partially_matched_skills": [
+                        {
+                            "jd_skill": "REST APIs",
+                            "matched_with": "Python",
+                            "reason": "Required 'REST APIs' is semantically related to 'Python' listed in your resume."
+                        }
+                    ],
+                    "missing_skills": [
+                        "Data Structures",
+                        "Algorithms",
+                        "OOP",
+                        "System Design",
+                        "Problem Solving"
+                    ],
+                    "explanations": {
+                        "ats_match": "Evaluated at 100% compatibility based on a TF-IDF text similarity of 0% and semantic alignment.",
+                        "skill_match": "Evaluated at 32% based on matching 2 skills directly and 1 skills partially out of 8 target skills.",
+                        "keyword_match": "Evaluated at 37% based on matching 3 keywords (both direct and related clusters).",
+                        "experience_match": "Evaluated at 85% based on experience section verification and target role requirements comparison.",
+                        "project_match": "Evaluated at 90% based on project completeness, descriptions, and presence of impact metric clauses."
+                    }
+                },
+                "ai_suggestions": [
+                    {
+                        "category": "Resume Improvement Tips",
+                        "suggestions": [
+                            "Format sections clearly using capital headers",
+                            "Ensure contact details are located at the very top"
+                        ]
+                    },
+                    {
+                        "category": "Missing Technical Skills",
+                        "suggestions": [
+                            "Acquire missing SDE taxonomy certifications",
+                            "Add cloud/devops containerization (Docker, AWS) items"
+                        ]
+                    },
+                    {
+                        "category": "Better Project Descriptions",
+                        "suggestions": [
+                            "Rewrite: 'Built a backend web API using Python' -> 'Engineered a high-throughput REST API using Python and FastAPI, reducing query latency by 35% using Redis caching.'"
+                        ]
+                    },
+                    {
+                        "category": "Better Achievement Statements",
+                        "suggestions": [
+                            "Refactored relational SQL database schemas, reducing index lookups by 22%.",
+                            "Collaborated in a team of 4 to design responsive user interfaces, scaling traffic by 40%."
+                        ]
+                    },
+                    {
+                        "category": "Better Action Verbs",
+                        "suggestions": [
+                            "Spearheaded",
+                            "Architected",
+                            "Deployed",
+                            "Optimized"
+                        ]
+                    },
+                    {
+                        "category": "Resume Summary Improvements",
+                        "suggestions": [
+                            "Result-driven engineering student specializing in target-role guidelines, technical algorithms, and scalable web solutions."
+                        ]
+                    }
+                ],
+                "skill_gap": {
+                    "acquired_skills": [
+                        "Git",
+                        "SQL"
+                    ],
+                    "missing_skills": [
+                        "Data Structures",
+                        "Algorithms",
+                        "OOP",
+                        "System Design",
+                        "REST APIs",
+                        "Problem Solving"
+                    ],
+                    "recommended_skills": [
+                        "Computer Science Foundations",
+                        "Data Structures",
+                        "Algorithms",
+                        "OOP"
+                    ],
+                    "learning_priority": [
+                        {
+                            "skill": "Data Structures",
+                            "priority": "High"
+                        },
+                        {
+                            "skill": "Algorithms",
+                            "priority": "High"
+                        },
+                        {
+                            "skill": "OOP",
+                            "priority": "Medium"
+                        },
+                        {
+                            "skill": "System Design",
+                            "priority": "Medium"
+                        },
+                        {
+                            "skill": "REST APIs",
+                            "priority": "Low"
+                        },
+                        {
+                            "skill": "Problem Solving",
+                            "priority": "Low"
+                        }
+                    ],
+                    "suggested_courses": [
+                        {
+                            "course_name": "Algorithms Specialization",
+                            "platform": "Coursera (Stanford)",
+                            "url": "https://www.coursera.org/specializations/algorithms"
+                        }
+                    ],
+                    "company_readiness": [
+                        {
+                            "company": "Google",
+                            "readiness_score": 31,
+                            "status": "Critical Skill Gaps"
+                        },
+                        {
+                            "company": "Amazon",
+                            "readiness_score": 56,
+                            "status": "Requires Skill Bridging"
+                        },
+                        {
+                            "company": "Microsoft",
+                            "readiness_score": 31,
+                            "status": "Critical Skill Gaps"
+                        },
+                        {
+                            "company": "TCS",
+                            "readiness_score": 76,
+                            "status": "Requires Skill Bridging"
+                        },
+                        {
+                            "company": "Wipro",
+                            "readiness_score": 76,
+                            "status": "Requires Skill Bridging"
+                        },
+                        {
+                            "company": "Infosys",
+                            "readiness_score": 56,
+                            "status": "Requires Skill Bridging"
+                        }
+                    ]
+                },
+                "raw_text": "KOSANA YASWANTH SAI\nOngole, Andhra Pradesh, India  |  +91 9381400632  |  yashwanthsai4005@gmail.com  |  linkedin.com/in/yaswanth-sai-kosana  |  github.com/yaswanthsai4005\nAI ENGINEER INTERN | MACHINE LEARNING | COMPUTER VISION | AGENTIC AI SYSTEMS\nPROFESSIONAL SUMMARY\nAI/ML Engineering student (B.Tech Computer Science, CT University, 2027) with hands-on experience building production-grade computer vision systems and ML pipelines, including real-time CNN-based surveillance models built during an internship at Brainovision Solutions. Skilled across the full ML lifecycle: preprocessing, model training, transfer learning, and deployment, with measurable results including sub-500ms inference latency, 87%+ classification accuracy, and 30-40% efficiency gains through automation. Seeking an AI Engineer internship to apply strong Python, deep learning, and computer vision skills in a fast-paced, product-focused environment.\nTECHNICAL SKILLS\nProgramming Languages: Python, SQL, HTML, CSS\nMachine Learning & AI: Machine Learning, Deep Learning, Convolutional Neural Networks (CNN), Computer Vision, Transfer Learning, Generative AI, Large Language Models (LLM)\nFrameworks & Libraries: PyTorch, OpenCV, NumPy, Pandas, scikit-learn\nTools & Platforms: Git, GitHub, Linux, Jupyter Notebook, VS Code\nEXPERIENCE\nAI Intern — Brainovision Solutions India Pvt Ltd\tMay 2025 - Jul 2025\nHyderabad, India\nEngineered real-time computer vision pipelines in Python and OpenCV to process live surveillance feeds, delivering 3+ production-ready monitoring modules during the internship.\nDesigned and trained CNN-based classification models for anomaly detection, achieving sub-500ms inference latency on standard hardware, enabling practical real-time deployment.\nCo-developed an automated alert generation module integrated into a public safety AI system, reducing manual review overhead by an estimated 40%.\nPROJECTS\nPublic Safety Alert System\tPython, OpenCV, CNN, PyTorch\nBuilt an AI surveillance system that classifies suspicious behaviors from live video feeds using a custom CNN architecture trained on labelled multi-frame sequences.\nDesigned an end-to-end OpenCV preprocessing pipeline (frame sampling, normalization, augmentation) enabling real-time inference at 30+ FPS on a standard GPU.\nImplemented threshold-driven automated alerts triggered at confidence scores above 0.85, reducing false-positive rate by approximately 30% compared to a naive baseline, validated on a held-out test set.\nDeepfake Detection System\tDeep Learning, Python, PyTorch\nDeveloped a binary deep learning classifier to distinguish AI-generated or manipulated media from authentic content, achieving 87%+ validation accuracy on a 10,000-sample dataset.\nApplied transfer learning with fine-tuning on a pre-trained CNN backbone; optimized the classification head via cross-entropy loss, improving F1-score by 12% over the untransferred baseline.\nGenerative AI Product Suite — NxtWave Capstone\tGenerative AI, LLM APIs\nDeveloped 5+ digital products and automation workflows by integrating 10+ generative AI tools (ChatGPT API, Microsoft Copilot, Gamma AI), delivering rapid-prototype solutions end-to-end.\nBuilt automated branding-asset and presentation pipelines that reduced manual content production time by approximately 50%, demonstrated through structured NxtWave curriculum milestones.\nCERTIFICATIONS\nIBM Python for Data Science\nNxtWave — Generative AI & AI Tools\nEDUCATION\nB.Tech, Computer Science — CT University, Ludhiana\t2023 - 2027\nCGPA: 7.9\nIntermediate — Narayana Junior College\t2023\nPercentage: 79.4%\nLANGUAGES: English (Fluent)  |  Telugu (Fluent)  |  Hindi (Conversational)"
+            }
+        },
+        {
+            "id": "8a46b505",
+            "timestamp": "2026-07-21 15:30:35",
+            "target_role": "SDE",
+            "overall_score": 85,
+            "resume_strength": "Strong",
+            "has_jd": true,
+            "report": {
+                "overall_score": 85,
+                "resume_strength": "Strong",
+                "formatting_score": 100,
+                "grammar_score": 100,
+                "readability_score": 60,
+                "completeness_score": 100,
+                "contact_info": {
+                    "has_email": true,
+                    "has_phone": true,
+                    "has_linkedin": true,
+                    "has_github": true,
+                    "found_email": "yashwanthsai4005@gmail.com",
+                    "found_phone": "+91 9381400632"
+                },
+                "completeness": {
+                    "has_education": true,
+                    "has_experience": true,
+                    "has_projects": true,
+                    "has_skills": true,
+                    "has_certifications": true,
+                    "completeness_score": 100
+                },
+                "jd_match": {
+                    "match_percentage": 100,
+                    "matched_keywords": [
+                        "Git",
+                        "SQL",
+                        "REST APIs (via Python)"
+                    ],
+                    "missing_keywords": [
+                        "Data Structures",
+                        "Algorithms",
+                        "OOP",
+                        "System Design",
+                        "Problem Solving"
+                    ],
+                    "keyword_density": 2.4,
+                    "skill_match_score": 32,
+                    "experience_match_score": 85,
+                    "project_quality_score": 90,
+                    "matched_skills": [
+                        "Git",
+                        "SQL"
+                    ],
+                    "partially_matched_skills": [
+                        {
+                            "jd_skill": "REST APIs",
+                            "matched_with": "Python",
+                            "reason": "Required 'REST APIs' is semantically related to 'Python' listed in your resume."
+                        }
+                    ],
+                    "missing_skills": [
+                        "Data Structures",
+                        "Algorithms",
+                        "OOP",
+                        "System Design",
+                        "Problem Solving"
+                    ],
+                    "explanations": {
+                        "ats_match": "Evaluated at 100% compatibility based on a TF-IDF text similarity of 19% and semantic alignment.",
+                        "skill_match": "Evaluated at 32% based on matching 2 skills directly and 1 skills partially out of 8 target skills.",
+                        "keyword_match": "Evaluated at 37% based on matching 3 keywords (both direct and related clusters).",
+                        "experience_match": "Evaluated at 85% based on experience section verification and target role requirements comparison.",
+                        "project_match": "Evaluated at 90% based on project completeness, descriptions, and presence of impact metric clauses."
+                    }
+                },
+                "ai_suggestions": [
+                    {
+                        "category": "Resume Improvement Tips",
+                        "suggestions": [
+                            "Quantify more achievements in your 'Experience' section, focusing on impact (e.g., 'increased X by Y%', 'reduced Z by W%').",
+                            "Consider adding a 'Relevant Coursework' section under Education to highlight specific AI/ML courses taken.",
+                            "Tailor your 'Professional Summary' to directly address Google's values and the specific AI Engineer role requirements, beyond just technical skills."
+                        ]
+                    },
+                    {
+                        "category": "Missing Technical Skills",
+                        "suggestions": [
+                            "Cloud Platforms (e.g., GCP, AWS, Azure) - Google heavily uses GCP.",
+                            "Docker/Kubernetes - Essential for deploying and managing ML models at scale."
+                        ]
+                    },
+                    {
+                        "category": "Better Project Descriptions",
+                        "suggestions": [
+                            "For 'Public Safety Alert System', rewrite: 'SITUATION: Developed an AI surveillance system to classify suspicious behaviors from live video feeds. TASK: Built a custom CNN architecture and an end-to-end OpenCV preprocessing pipeline. ACTION: Trained the CNN on labeled multi-frame sequences and optimized the pipeline for real-time inference at 30+ FPS on a standard GPU. RESULT: Implemented threshold-driven automated alerts, reducing false-positive rates by approximately 30% compared to a naive baseline, validated on a held-out test set.'"
+                        ]
+                    },
+                    {
+                        "category": "Better Achievement Statements",
+                        "suggestions": [
+                            "Engineered real-time computer vision pipelines, delivering 3+ production-ready monitoring modules that improved system efficiency by 15%.",
+                            "Co-developed an automated alert generation module, reducing manual review overhead by an estimated 40% and enhancing public safety response times by 20%."
+                        ]
+                    },
+                    {
+                        "category": "Better Action Verbs",
+                        "suggestions": [
+                            "Optimized",
+                            "Implemented",
+                            "Architected",
+                            "Collaborated"
+                        ]
+                    },
+                    {
+                        "category": "Resume Summary Improvements",
+                        "suggestions": [
+                            "Highly motivated AI/ML Engineering student (B.Tech Computer Science, CT University, 2027) with a strong foundation in computer vision, deep learning, and ML pipelines, demonstrated through real-time CNN-based surveillance models and significant efficiency gains.",
+                            "Seeking an AI Engineer internship at Google to leverage expertise in Python, PyTorch, and OpenCV, contributing to innovative product development in a dynamic, fast-paced environment."
+                        ]
+                    }
+                ],
+                "skill_gap": {
+                    "acquired_skills": [
+                        "Git",
+                        "SQL"
+                    ],
+                    "missing_skills": [
+                        "Data Structures",
+                        "Algorithms",
+                        "OOP",
+                        "System Design",
+                        "REST APIs",
+                        "Problem Solving"
+                    ],
+                    "recommended_skills": [
+                        "Computer Science Foundations",
+                        "Data Structures",
+                        "Algorithms",
+                        "OOP"
+                    ],
+                    "learning_priority": [
+                        {
+                            "skill": "Data Structures",
+                            "priority": "High"
+                        },
+                        {
+                            "skill": "Algorithms",
+                            "priority": "High"
+                        },
+                        {
+                            "skill": "OOP",
+                            "priority": "Medium"
+                        },
+                        {
+                            "skill": "System Design",
+                            "priority": "Medium"
+                        },
+                        {
+                            "skill": "REST APIs",
+                            "priority": "Low"
+                        },
+                        {
+                            "skill": "Problem Solving",
+                            "priority": "Low"
+                        }
+                    ],
+                    "suggested_courses": [
+                        {
+                            "course_name": "Algorithms Specialization",
+                            "platform": "Coursera (Stanford)",
+                            "url": "https://www.coursera.org/specializations/algorithms"
+                        }
+                    ],
+                    "company_readiness": [
+                        {
+                            "company": "Google",
+                            "readiness_score": 31,
+                            "status": "Critical Skill Gaps"
+                        },
+                        {
+                            "company": "Amazon",
+                            "readiness_score": 56,
+                            "status": "Requires Skill Bridging"
+                        },
+                        {
+                            "company": "Microsoft",
+                            "readiness_score": 31,
+                            "status": "Critical Skill Gaps"
+                        },
+                        {
+                            "company": "TCS",
+                            "readiness_score": 76,
+                            "status": "Requires Skill Bridging"
+                        },
+                        {
+                            "company": "Wipro",
+                            "readiness_score": 76,
+                            "status": "Requires Skill Bridging"
+                        },
+                        {
+                            "company": "Infosys",
+                            "readiness_score": 56,
+                            "status": "Requires Skill Bridging"
+                        }
+                    ]
+                },
+                "raw_text": "KOSANA YASWANTH SAI\nOngole, Andhra Pradesh, India  |  +91 9381400632  |  yashwanthsai4005@gmail.com  |  linkedin.com/in/yaswanth-sai-kosana  |  github.com/yaswanthsai4005\nAI ENGINEER INTERN | MACHINE LEARNING | COMPUTER VISION | AGENTIC AI SYSTEMS\nPROFESSIONAL SUMMARY\nAI/ML Engineering student (B.Tech Computer Science, CT University, 2027) with hands-on experience building production-grade computer vision systems and ML pipelines, including real-time CNN-based surveillance models built during an internship at Brainovision Solutions. Skilled across the full ML lifecycle: preprocessing, model training, transfer learning, and deployment, with measurable results including sub-500ms inference latency, 87%+ classification accuracy, and 30-40% efficiency gains through automation. Seeking an AI Engineer internship to apply strong Python, deep learning, and computer vision skills in a fast-paced, product-focused environment.\nTECHNICAL SKILLS\nProgramming Languages: Python, SQL, HTML, CSS\nMachine Learning & AI: Machine Learning, Deep Learning, Convolutional Neural Networks (CNN), Computer Vision, Transfer Learning, Generative AI, Large Language Models (LLM)\nFrameworks & Libraries: PyTorch, OpenCV, NumPy, Pandas, scikit-learn\nTools & Platforms: Git, GitHub, Linux, Jupyter Notebook, VS Code\nEXPERIENCE\nAI Intern — Brainovision Solutions India Pvt Ltd\tMay 2025 - Jul 2025\nHyderabad, India\nEngineered real-time computer vision pipelines in Python and OpenCV to process live surveillance feeds, delivering 3+ production-ready monitoring modules during the internship.\nDesigned and trained CNN-based classification models for anomaly detection, achieving sub-500ms inference latency on standard hardware, enabling practical real-time deployment.\nCo-developed an automated alert generation module integrated into a public safety AI system, reducing manual review overhead by an estimated 40%.\nPROJECTS\nPublic Safety Alert System\tPython, OpenCV, CNN, PyTorch\nBuilt an AI surveillance system that classifies suspicious behaviors from live video feeds using a custom CNN architecture trained on labelled multi-frame sequences.\nDesigned an end-to-end OpenCV preprocessing pipeline (frame sampling, normalization, augmentation) enabling real-time inference at 30+ FPS on a standard GPU.\nImplemented threshold-driven automated alerts triggered at confidence scores above 0.85, reducing false-positive rate by approximately 30% compared to a naive baseline, validated on a held-out test set.\nDeepfake Detection System\tDeep Learning, Python, PyTorch\nDeveloped a binary deep learning classifier to distinguish AI-generated or manipulated media from authentic content, achieving 87%+ validation accuracy on a 10,000-sample dataset.\nApplied transfer learning with fine-tuning on a pre-trained CNN backbone; optimized the classification head via cross-entropy loss, improving F1-score by 12% over the untransferred baseline.\nGenerative AI Product Suite — NxtWave Capstone\tGenerative AI, LLM APIs\nDeveloped 5+ digital products and automation workflows by integrating 10+ generative AI tools (ChatGPT API, Microsoft Copilot, Gamma AI), delivering rapid-prototype solutions end-to-end.\nBuilt automated branding-asset and presentation pipelines that reduced manual content production time by approximately 50%, demonstrated through structured NxtWave curriculum milestones.\nCERTIFICATIONS\nIBM Python for Data Science\nNxtWave — Generative AI & AI Tools\nEDUCATION\nB.Tech, Computer Science — CT University, Ludhiana\t2023 - 2027\nCGPA: 7.9\nIntermediate — Narayana Junior College\t2023\nPercentage: 79.4%\nLANGUAGES: English (Fluent)  |  Telugu (Fluent)  |  Hindi (Conversational)"
+            }
+        },
+        {
+            "id": "7ea28dcb",
+            "timestamp": "2026-07-15 16:19:39",
+            "target_role": "SDE",
+            "overall_score": 43,
+            "resume_strength": "Weak",
+            "has_jd": true,
+            "report": {
+                "overall_score": 43,
+                "resume_strength": "Weak",
+                "formatting_score": 100,
+                "grammar_score": 100,
+                "readability_score": 65,
+                "completeness_score": 100,
+                "contact_info": {
+                    "has_email": true,
+                    "has_phone": true,
+                    "has_linkedin": true,
+                    "has_github": true,
+                    "found_email": "yashwanthsai4005@gmail.com",
+                    "found_phone": "+91 9381400632"
+                },
+                "completeness": {
+                    "has_education": true,
+                    "has_experience": true,
+                    "has_projects": true,
+                    "has_skills": true,
+                    "has_certifications": true,
+                    "completeness_score": 100
+                },
+                "jd_match": {
+                    "match_percentage": 0,
+                    "matched_keywords": [],
+                    "missing_keywords": [
+                        "Algorithms",
+                        "Data Structures",
+                        "REST APIs",
+                        "Cloud",
+                        "Agile"
+                    ],
+                    "keyword_density": 0.0,
+                    "skill_match_score": 30,
+                    "experience_match_score": 80,
+                    "project_quality_score": 40
+                },
+                "ai_suggestions": [
+                    {
+                        "category": "Resume Improvement Tips",
+                        "suggestions": [
+                            "Reorder sections to prioritize 'Projects' and 'Experience' above 'Skills' and 'Certifications' for better impact.",
+                            "Consider adding a 'Summary' or 'Objective' section to quickly highlight your career goals and key qualifications.",
+                            "Ensure consistent formatting for dates and locations across all sections."
+                        ]
+                    },
+                    {
+                        "category": "Missing Technical Skills",
+                        "suggestions": [
+                            "Prompt Engineering",
+                            "LLM Fine-tuning"
+                        ]
+                    },
+                    {
+                        "category": "Better Project Descriptions",
+                        "suggestions": [
+                            "For 'Public Safety Alert System', rewrite: 'SITUATION: Faced with the challenge of identifying suspicious behaviors from live video feeds, TASK: I designed and built an AI surveillance system using a custom CNN architecture. ACTION: This involved training the CNN on labeled multi-frame sequences and developing an end-to-end OpenCV preprocessing pipeline for real-time inference at 30+ FPS. RESULT: The system implemented threshold-driven automated alerts, reducing the false-positive rate by ~30% compared to a naive baseline, validated on a held-out test set.'"
+                        ]
+                    },
+                    {
+                        "category": "Better Achievement Statements",
+                        "suggestions": [
+                            "Developed a binary deep learning classifier for deepfake detection, achieving 87%+ validation accuracy on a 10,000-sample dataset.",
+                            "Optimized classification head via cross-entropy loss, improving F1-score by 12% over the untransferred baseline for deepfake detection."
+                        ]
+                    },
+                    {
+                        "category": "Better Action Verbs",
+                        "suggestions": [
+                            "Optimized",
+                            "Implemented",
+                            "Collaborated",
+                            "Evaluated"
+                        ]
+                    },
+                    {
+                        "category": "Resume Summary Improvements",
+                        "suggestions": [
+                            "Highly motivated Computer Science student with practical experience in AI/ML, computer vision, and deep learning, seeking an SDE role to apply and expand expertise in developing intelligent systems.",
+                            "A proactive problem-solver with a strong foundation in Python, PyTorch, and OpenCV, eager to contribute to innovative projects and learn new technologies in a dynamic tech environment."
+                        ]
+                    }
+                ],
+                "skill_gap": {
+                    "acquired_skills": [
+                        "Git",
+                        "SQL"
+                    ],
+                    "missing_skills": [
+                        "Data Structures",
+                        "Algorithms",
+                        "OOP",
+                        "System Design",
+                        "REST APIs",
+                        "Problem Solving"
+                    ],
+                    "recommended_skills": [
+                        "Computer Science Foundations",
+                        "Data Structures",
+                        "Algorithms",
+                        "OOP"
+                    ],
+                    "learning_priority": [
+                        {
+                            "skill": "Data Structures",
+                            "priority": "High"
+                        },
+                        {
+                            "skill": "Algorithms",
+                            "priority": "High"
+                        },
+                        {
+                            "skill": "OOP",
+                            "priority": "Medium"
+                        },
+                        {
+                            "skill": "System Design",
+                            "priority": "Medium"
+                        },
+                        {
+                            "skill": "REST APIs",
+                            "priority": "Low"
+                        },
+                        {
+                            "skill": "Problem Solving",
+                            "priority": "Low"
+                        }
+                    ],
+                    "suggested_courses": [
+                        {
+                            "course_name": "Algorithms Specialization",
+                            "platform": "Coursera (Stanford)",
+                            "url": "https://www.coursera.org/specializations/algorithms"
+                        }
+                    ],
+                    "company_readiness": [
+                        {
+                            "company": "Google",
+                            "readiness_score": 31,
+                            "status": "Critical Skill Gaps"
+                        },
+                        {
+                            "company": "Amazon",
+                            "readiness_score": 56,
+                            "status": "Requires Skill Bridging"
+                        },
+                        {
+                            "company": "Microsoft",
+                            "readiness_score": 31,
+                            "status": "Critical Skill Gaps"
+                        },
+                        {
+                            "company": "TCS",
+                            "readiness_score": 76,
+                            "status": "Requires Skill Bridging"
+                        },
+                        {
+                            "company": "Wipro",
+                            "readiness_score": 76,
+                            "status": "Requires Skill Bridging"
+                        },
+                        {
+                            "company": "Infosys",
+                            "readiness_score": 56,
+                            "status": "Requires Skill Bridging"
+                        }
+                    ]
+                },
+                "raw_text": "KOSANA YASWANTH SAI \n+91 9381400632  |  yashwanthsai4005@gmail.com  |  linkedin.com/in/yaswanth-sai-kosana  |  github.com/yaswanthsai4005 \n \nEDUCATION \nCT University, Ludhiana \nB.Tech – Computer Science \nCGPA: 7.9  |  2023 – 2027 \nNarayana Junior College \nIntermediate  |  79.4%  |  2023 \nSKILLS \nLanguages \nPython  |  SQL  |  HTML  |  CSS \nAI / ML \nMachine Learning  |  Deep Learning \nCNNs  |  Computer Vision \nTransfer Learning \nFrameworks & Libraries \nPyTorch  |  OpenCV \nNumPy  |  Pandas  |  scikit-learn \nTools & Platforms \nGit  |  GitHub  |  Linux \nJupyter Notebook  |  VS Code \nCERTIFICATIONS \nIBM Python for Data Science \nNxtWave – Generative AI & AI Tools \nBrainovision AI Internship \nACTIVITIES \n• Attended AI/ML workshops on \ncomputer \n  vision & deep learning applications \n• Conducted sessions on AI productivity \n  tools for peers \nLANGUAGES \nEnglish – Fluent \nTelugu – Fluent \nHindi – Conversational \nEXPERIENCE \nBrainovision Solutions India Pvt Ltd  |  AI Intern \nMay 2025 – Jul 2025  ·  Hyderabad, India \n• Engineered real-time computer vision pipelines in Python and OpenCV to process live \nsurveillance feeds, delivering 3+ production-ready monitoring modules during the \ninternship. \n• Designed and trained CNN-based classification models for anomaly detection, achieving \nsub-500 ms inference latency on standard hardware — enabling practical real-time \ndeployment. \n• Co-developed an automated alert generation module integrated into a public safety AI \nsystem, reducing manual review overhead by an estimated 40%. \n• Tech stack: Python, OpenCV, CNN (PyTorch), NumPy, Pandas. \nPROJECTS \nPublic Safety Alert System  ·  Python, OpenCV, CNN, PyTorch \n• Built an AI surveillance system that classifies suspicious behaviours from live video \nfeeds using a custom CNN architecture trained on labelled multi-frame sequences. \n• Designed an end-to-end OpenCV preprocessing pipeline (frame sampling, \nnormalisation, augmentation) feeding real-time inference at 30+ FPS on a standard \nGPU. \n• Implemented threshold-driven automated alerts triggered at confidence scores > 0.85, \nreducing false-positive rate by ~30% compared to a naïve baseline, validated on a held-\nout test set. \nDeepfake Detection System  ·  Deep Learning, Python, PyTorch \n• Developed a binary deep learning classifier to distinguish AI-generated / manipulated \nmedia from authentic content, achieving 87%+ validation accuracy on a 10,000-sample \ndataset. \n• Applied transfer learning with fine-tuning on a pre-trained CNN backbone; optimised \nclassification head via cross-entropy loss, improving F1-score by 12% over the \nuntransferred baseline. \n• Executed full ML pipeline: data preprocessing (normalisation, augmentation), stratified \nsplits, feature extraction, training with early stopping, and model evaluation. \nGenerative AI Product Suite  ·  NxtWave Capstone  ·  GenAI, LLM APIs \n• Developed 5+ digital products and automation workflows by integrating 10+ generative \nAI tools (ChatGPT API, Microsoft Copilot, Gamma AI), delivering rapid-prototype \nsolutions end-to-end. \n• Built automated branding-asset and presentation pipelines that reduced manual content \nproduction time by ~50%, demonstrated through structured NxtWave curriculum \nmilestones."
+            }
+        }
+    ]
+}
