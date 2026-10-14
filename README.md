@@ -1,4 +1,4 @@
-errrrrrrrrrre# 🚀 CareerPilot AI – AI-Powered Placement Mentor
+# 🚀 CareerPilot AI – AI-Powered Placement Mentor
 
 <p align="center">
   <b>Your Intelligent Career Companion for Placements, Resume Analysis, Interview Preparation, Coding Practice, and Personalized Learning.</b>
