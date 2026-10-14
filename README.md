@@ -1,4 +1,4 @@
-# 🚀 CareerPilot AI – AI-Powered Placement Mentor
+errrrrrrrrrre# 🚀 CareerPilot AI – AI-Powered Placement Mentor
 
 <p align="center">
   <b>Your Intelligent Career Companion for Placements, Resume Analysis, Interview Preparation, Coding Practice, and Personalized Learning.</b>
@@ -300,10 +300,3 @@ This project is licensed under the **MIT License**.
 
 💼 AI Intern – Brainovision Solutions India Pvt. Ltd.
 
-🔗 LinkedIn: https://linkedin.com/in/yaswanth-sai-kosana
-
-💻 GitHub: https://github.com/yaswanthsai4005
-
----
-
-## ⭐ If you found this project useful, please consider giving it a star on GitHub!
